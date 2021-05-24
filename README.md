@@ -52,7 +52,7 @@ I love playing sports and listening to music. Coding's been a passion of mine si
 
 ###### 🤝Also find and connect with me here:
 
-<a href="https://www.linkedin.com/in/francogiuntoli/">LinkedIn </a>
+<a href="https://www.linkedin.com/in/francogiuntoli/"><img width='22px' src="https://github.com/francogiuntoli/francogiuntoli/blob/main/linkedin.svg"/>LinkedIn </a>
             
 
 
