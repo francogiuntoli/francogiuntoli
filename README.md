@@ -1,11 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 
 
-<p align="center">
-Transitioning into a full-fledged FullStack JavaScript Developer  </p> 
+<h3 align="center">
+Transitioning into a full-fledged FullStack JavaScript Developer  </h3> 
 
- <p align="center"> My name is Franco Giuntoli<br><br>Welcome to my Github 😊!</p>
+ <h3 align="center"> My name is Franco Giuntoli<br><br>Welcome to my Github 😊!</h3>
  <hr> 
  
  ###### About me: 
@@ -18,7 +18,7 @@ Transitioning into a full-fledged FullStack JavaScript Developer  </p>
 
 ‣ Just graduated from a JavaScript FullStack intensive MERN stack program with Ironhack coding Bootcamp.<br>
 ‣ Problem solving with optimized Data Structures and Algorithm.<br>
-‣ Doing an advanced course on Flutter. 
+‣ Doing an advanced course on Flutter as well. 
  <hr>
 
 ###### Languages and Tools:
@@ -37,7 +37,7 @@ Transitioning into a full-fledged FullStack JavaScript Developer  </p>
 
 ###### ⚡ Fun facts: 
 
-I love playing sports and listening to music. Coding's been my passion for as long as I can remember. 
+I love playing sports and listening to music. Coding's been a passion of mine since I was a teenager. Played around with dreamweaver and flash animations as well when the website era started.
  <hr>
 
 ###### 📚 Goals:
@@ -52,7 +52,7 @@ I love playing sports and listening to music. Coding's been my passion for as lo
 
 ###### 🤝Also find and connect with me here:
 
-<a href="https://www.linkedin.com/in/francogiuntoli/"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/linkedin.svg"> LinkedIn </a>
+<a href="https://www.linkedin.com/in/francogiuntoli/">LinkedIn </a>
             
 
 
