@@ -15,7 +15,7 @@ Transitioning into a full-fledged FullStack JavaScript Developer  </p>
 
 ‣ Just graduated from a JavaScript FullStack intensive MERN stack program with Ironhack coding Bootcamp.<br>
 ‣ Problem solving with optimized Data Structures and Algorithm.<br>
-‣ AWS and open to other cloud programming tools.
+‣ Doing an advanced course on Flutter. 
  <hr>
 
 ###### Languages and Tools:
