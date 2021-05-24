@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+
 <p align="center">
 Transitioning into a full-fledged FullStack JavaScript Developer  </p> 
 
