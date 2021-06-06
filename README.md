@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-Transitioning into a full-fledged FullStack JavaScript Developer  </h3> 
+ FullStack JavaScript Developer  </h3> 
 
  <h3 align="center"> My name is Franco Giuntoli<br><br>Welcome to my Github 😊!</h3>
  <hr> 
