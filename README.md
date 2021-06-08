@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
- FullStack JavaScript Developer  </h3> 
+ Jr FullStack JavaScript Developer  </h3> 
 
  <h3 align="center"> My name is Franco Giuntoli<br><br>Welcome to my Github 😊!</h3>
  <hr> 
@@ -16,8 +16,7 @@
  
 ###### 🎓 I’m currently : 
 
-‣ Just graduated from a JavaScript FullStack intensive MERN stack program with Ironhack coding Bootcamp.<br>
-‣ Problem solving with optimized Data Structures and Algorithm.<br>
+‣ Looking to grow as a JavaScript FullStack Developer.<br>
 ‣ Doing an advanced course on Flutter as well. 
  <hr>
 
