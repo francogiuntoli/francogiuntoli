@@ -9,9 +9,10 @@
  <hr> 
  
  ###### About me: 
-
+ 
 📍 current location : Copenhagen, Denmark . 
 
+ 
  <hr> 
  
 ###### 🎓 I’m currently : 
@@ -47,13 +48,13 @@ I love playing sports and listening to music. Coding's been a passion of mine si
 
 ###### For more Enquiries: 
 
-📩Send me an Email on: <a href="mailto: franco.giuntoli@gmail.com">franco.giuntoli@gmail.com</a>
-
-###### 🤝Also find and connect with me here:
-
+<p>📩Send me an Email on: <a href="mailto: franco.giuntoli@gmail.com">franco.giuntoli@gmail.com</a></p>
+<br>
 <a href="https://www.linkedin.com/in/francogiuntoli/"><img width='22px' src="https://github.com/francogiuntoli/francogiuntoli/blob/main/linkedin.svg"/>LinkedIn </a>
-            
 
+###### <h3>🤝 And don't forget to visit my website!</h3>
+<a href="http://www.francogiuntoli.com" target="_blank">Franco Giuntoli's Portfolio</a>
+<hr>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=francogiuntoli&hide=prs&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francogiuntoli&layout=compact&theme=dracula)
