@@ -17,8 +17,8 @@
  
 ###### 🎓 I’m currently : 
 
-‣ Looking to grow as a Web Developer.<br>
-‣ Doing an advanced course on Flutter as well. 
+‣ Working and looking to grow as a Web Developer.<br>
+‣ Working on some Flutter project ideas on my free time. 
  <hr>
 
 ###### Stack and Tools:
