@@ -2,11 +2,11 @@
 
 
 
-<h3 align="center">
- Jr FullStack JavaScript Developer  </h3> 
 
- <h3 align="center"> My name is Franco Giuntoli<br><br>Welcome to my Github 😊!</h3>
+
+ <h3 align="center"> My name is Franco Giuntoli<br><br> I'm a Web Developer<br><br>Welcome to my Github 😊!</h3>
  <hr> 
+ 
  
  ###### About me: 
  
@@ -17,15 +17,21 @@
  
 ###### 🎓 I’m currently : 
 
-‣ Looking to grow as a JavaScript FullStack Developer.<br>
+‣ Looking to grow as a Web Developer.<br>
 ‣ Doing an advanced course on Flutter as well. 
  <hr>
 
-###### Languages and Tools:
+###### Stack and Tools:
 
+![React](https://img.shields.io/badge/-React-informational?style=flat-square&logo=react)
+![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-9cf?style=flat-square&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-pink?style=flat-square&logo=bootstrap)
+![ChakraUI](https://img.shields.io/badge/-ChakraUI-lightblue?style=flat-square&logo=chakraui)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-white?style=flat-square&logo=mui)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
-![ES6](https://img.shields.io/badge/-ES6-orange?style=flat-square)
+![ES7](https://img.shields.io/badge/-ES7-orange?style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -42,7 +48,7 @@ I love playing sports and listening to music. Coding's been a passion of mine si
 
 ###### 📚 Goals:
 
- ‣ Becoming a developer at a Start-Up , intermediate or huge organisation in order to contribute while still learning new skills.<br>
+ ‣ Contribute to any organization who bets on me to create and better their product while allowing me to grow.<br>
  ‣ Keep learning and growing.
  <hr>
 
