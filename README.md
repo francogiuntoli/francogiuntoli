@@ -62,10 +62,6 @@ I love playing sports and listening to music. Coding's been a passion of mine si
 <a href="http://www.francogiuntoli.com" target="_blank">Franco Giuntoli's Portfolio</a>
 <hr>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=francogiuntoli&hide=prs&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francogiuntoli&layout=compact&theme=dracula)
-<hr> 
-
 ###### Acknowledgements:
 
  ‣ Dynamic Github-readme-stats ‣ <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
