@@ -10,7 +10,7 @@
  
  ###### About me: 
  
-📍 current location : Copenhagen, Denmark . 
+📍 Current location : Copenhagen, Denmark . 
 
  
  <hr> 
