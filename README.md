@@ -30,6 +30,7 @@
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-lightblue?style=flat-square&logo=chakraui)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-white?style=flat-square&logo=mui)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+
 ![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
 ![ES7](https://img.shields.io/badge/-ES7-orange?style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
