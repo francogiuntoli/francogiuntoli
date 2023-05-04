@@ -44,7 +44,7 @@
 
 ###### ⚡ Fun facts: 
 
-I love playing sports and listening to music. Coding's been a passion of mine since I was a teenager. Played around with dreamweaver and flash animations as well when the website era started.
+I love playing sports and listening to music. Coding's been a passion of mine since I was a teenager. Played around with dreamweaver and (Macromedia/Adobe) Flash animations too when the website era started.
  <hr>
 
 ###### 📚 Goals:
