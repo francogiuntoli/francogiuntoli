@@ -28,13 +28,6 @@
 ![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=nextdotjs)
 ![Vite](https://img.shields.io/badge/-Vite-white?style=flat-square&logo=vite)
 
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-9cf?style=flat-square&logo=tailwindcss)
-![ShadcnUI](https://img.shields.io/badge/-ShadcnUI-black?style=flat-square&logo=shadcnui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-pink?style=flat-square&logo=bootstrap)
-![ChakraUI](https://img.shields.io/badge/-ChakraUI-lightblue?style=flat-square&logo=chakraui)
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-white?style=flat-square&logo=mui)
-![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![TypeScipt](https://img.shields.io/badge/-TypeScript-9cf?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
@@ -52,6 +45,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-orange?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis)
 
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-9cf?style=flat-square&logo=tailwindcss)
+![ShadcnUI](https://img.shields.io/badge/-ShadcnUI-black?style=flat-square&logo=shadcnui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-pink?style=flat-square&logo=bootstrap)
+![ChakraUI](https://img.shields.io/badge/-ChakraUI-lightblue?style=flat-square&logo=chakraui)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-white?style=flat-square&logo=mui)
+![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
